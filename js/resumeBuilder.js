@@ -85,18 +85,6 @@ var work = {
         "location": "Clemson, SC",
         "dates": "February 2016 - May 2016",
         "description": "Developed a C# based control interface to command and guide a patient positioning system prototype based on external image processing guidance data.<br>•   Made a dll file using the Pascal programming language which had TCP/IP protocol functions<br>•   Received  the motion points from client side coded in C#<br>•   Successfully translate all the motions from the kinect sensor to the robot accurately"
-    },{
-        "employer": "Ryma Technologies Private Limited ",
-        "title": "Web Developer Intern",
-        "location": "Gurgaon, India",
-        "dates": "January 2014 - July 2014",
-        "description": "•Developed Use Cases, Class Diagrams, Sequence Diagrams and Data Models<br>"+
-                        "•Followed the Agile development methodologies<br>"+
-                        "•Design and development of Web pages using HTML, CSS, JavaScript, JSON, jQuery, Ajax<br>"+
-                        "•Integrated the Java code (API) in JSP Pages<br>"+
-                        "•Used jQuery core library functions for the logical implementation part at client side for all the application<br>"+
-                        "•Involved in developing HTML and JavaScript for client side presentation and data validation on the client side with in the forms<br>"+
-                        "•Involved in writing SQL Queries, Stored Procedures"
     }]
 };
 
